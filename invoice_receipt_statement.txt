@@ -1,0 +1,4 @@
+ID:NAME:ROLE:AMOUNT_DUE 
+R001:Ali:Resident/Tenant:1500
+R002:Chan:Resident/Tenant:2000
+V001:Mei:Vendor:3000

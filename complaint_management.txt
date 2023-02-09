@@ -1,0 +1,5 @@
+COMPLAINT_ID:UNIT_NUMBER:COMPLAINT_TITLE:DETAILS:STATUS
+C001:A_B_009:NOICE:B_B_009 make lot of noice
+C002:B_C_002:Water leakage:Ceiling leakage
+asd:asd:asd:asd
+sdsd:sdsd:sdsd:sdsd
